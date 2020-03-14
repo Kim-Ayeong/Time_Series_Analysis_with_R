@@ -32,11 +32,3 @@
   - 11장 - Time Series Regression Models
 
   - 12장 - Time Series Models Of Heteroscedasticity
-
-    
-
-- 부교재 : SAS/ETS를 이용한 시계열분석
-
-  - ![sas/ETS를 이용한 시계열분석 3판에 대한 이미지 검색결과](https://image.aladin.co.kr/product/334/36/cover500/8991830455_1.jpg)
-
-    
